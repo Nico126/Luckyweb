@@ -1,0 +1,17 @@
+body{
+    background-image:url(https://i.pinimg.com/564x/c1/cf/68/c1cf6899507965615c3a0d230871171f.jpg)
+}
+.row{
+    min-width: 300px;
+}
+.container{
+    min-width: 300px;
+    background-color: rgba(187, 255, 179, 0.76);
+}
+.card{
+    min-width: 300px;
+}
+.col-3{
+    background-color: rgb(255, 246, 193);
+    padding: 5px;
+}
